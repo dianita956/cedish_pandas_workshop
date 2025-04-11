@@ -402,3 +402,6 @@ FodyWeavers.xsd
 # venv
 .pd
 
+# files
+.xlsx
+datadictionary_311.xlsx
