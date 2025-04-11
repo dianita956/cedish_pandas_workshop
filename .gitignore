@@ -403,5 +403,6 @@ FodyWeavers.xsd
 .pd
 
 # files
-.xlsx
-datadictionary_311.xlsx
+*.xlsx
+*.csv
+
